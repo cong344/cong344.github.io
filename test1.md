@@ -1,4 +1,4 @@
-[test.md](https://github.com/user-attachments/files/18049189/test.md)
+
 # Hello World!
 ## 更小的标题？
 ### 下一级标题
@@ -19,7 +19,8 @@ Like This.
 
 可以使用LATEX公式，行内添加$符号，公式块则使用两个该符号。
 
-比如$C:x^2 + y^2 = 1$是一个行内公式，而
+比如 $C:x^2 + y^2 = 1$ 是一个行内公式，而
+
 $$
 \begin{cases}
 x=\rho\cos\theta \\
@@ -39,13 +40,15 @@ $$
 
 这也可以用来起到给文字增加强调的作用，`比如这样`。
 
-在添加$\LaTeX$公式时，利用\boxed{}命令也可以使公式加上框，比如：
+在添加 $\LaTeX$ 公式时，利用\boxed{}命令也可以使公式加上框，比如：
+
 $$
 \boxed{\vec{F}=m\vec{a}}
 $$
+
 
 插入超链接时，利用：`[超链接名称](链接地址)`
 
 比如：[这里](https://www.baidu.com)。
 
-$ax^2 + bx + c = 0$
+
