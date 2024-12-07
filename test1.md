@@ -1,3 +1,4 @@
+[test.md](https://github.com/user-attachments/files/18049189/test.md)
 # Hello World!
 ## 更小的标题？
 ### 下一级标题
@@ -18,7 +19,7 @@ Like This.
 
 可以使用LATEX公式，行内添加$符号，公式块则使用两个该符号。
 
-比如$C:x^2+y^2=1$是一个行内公式，而
+比如$C:x^2 + y^2 = 1$是一个行内公式，而
 $$
 \begin{cases}
 x=\rho\cos\theta \\
@@ -46,3 +47,5 @@ $$
 插入超链接时，利用：`[超链接名称](链接地址)`
 
 比如：[这里](https://www.baidu.com)。
+
+$ax^2 + bx + c = 0$
