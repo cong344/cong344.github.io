@@ -9,6 +9,6 @@
 
 *注意*：这些笔记以整理知识点与应试技巧为主，仅供回忆。不建议在第一次学习时阅读。
 
-+ [线性代数学习笔记](Linear_Algebra/index.html)
++ [线性代数学习笔记](Linear_Algebra/Index.html)
 
 + [工科数学分析（上）学习笔记](analysis1/Index.html)
