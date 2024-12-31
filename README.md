@@ -11,4 +11,4 @@
 
 + [线性代数学习笔记](Linear_Algebra/index.html)
 
-+ [工科数学分析（上）学习笔记](analysis1/index.html)
++ [工科数学分析（上）学习笔记](analysis1/Index.html)
