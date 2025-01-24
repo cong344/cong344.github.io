@@ -4,12 +4,14 @@
 
 本笔记将会持续缓慢更新。事务繁多，可能存在未添加部分插图的问题，请读者谅解。
 
-## [前言](foreword.md)
+## [前言](foreword.html)
 
 ## 第零章 数学基础
 
-[0.1 三角函数](physics1/chapter0/0_1.html)
+[0.1 三角函数](chapter0/0_1.html)
 
-[0.2 双曲函数](physics1/chapter0/0_2.html)
+[0.2 双曲函数](chapter0/0_2.html)
 
-[0.3 坐标系与参数方程](physics1/chapter0/0_3.html)
+[0.3 坐标系与参数方程](chapter0/0_3.html)
+
+[0.4 数列与级数](chapter0/0_4.html)
