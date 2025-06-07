@@ -11,6 +11,8 @@
 
 + [线性代数学习笔记](Linear_Algebra/Index.html)
 
-+ [工科数学分析（上）学习笔记](analysis1/Index.html)
++ [工科数学分析学习笔记](analysis1/Index.html)
 
 + [C++学习笔记](cpp/index.html)
+
++ [电路学习笔记](circuit/index.html)
