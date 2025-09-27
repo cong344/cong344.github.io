@@ -17,3 +17,5 @@
 [0.4 数列与级数](chapter0/0_4.html)
 
 [0.5 单元函数微积分](chapter0/0_5.html)
+
+[0.6 多元函数微积分](chapter0/0_6.html)
