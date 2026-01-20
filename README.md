@@ -20,3 +20,5 @@
 + [复变函数学习笔记](CF/index.html)
 
 + [交通工程基础学习笔记](TEB/index.html)
+
++ [人工智能基础学习笔记](AIB/index.html)
