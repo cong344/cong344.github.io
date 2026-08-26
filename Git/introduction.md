@@ -2,8 +2,6 @@
 ## Github的注册
 访问 [Github官网](https://github.com) ，输入邮箱，填写用户名等信息后，即可注册自己的 Github 账号。
 
-随后，我将发送电赛项目的协作邀请，在收到的电子邮件中点击同意即可。
-
 ## Git的下载
 访问Windows版本的 [Git官网](https://gitforwindows.org/)，点击 Download 后即可下载安装程序。
 
